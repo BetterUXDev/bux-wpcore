@@ -1,8 +1,8 @@
 # bux-repo
 Contains the collaborative work of all BUX paladins.
 
-##Helpful git videos
-
+##git videos
+*lets try and stay consitent with out git methods!*
 ###git tut part :
 1. https://www.youtube.com/watch?v=j1oFazXrzN4
 2. https://www.youtube.com/watch?v=KDt01U859Ik
