@@ -1,2 +1,2 @@
 # bux-repo
-contains the collaborative work of all bux paladins.
+Contains the collaborative work of all BUX paladins.
