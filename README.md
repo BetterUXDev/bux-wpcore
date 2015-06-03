@@ -12,3 +12,7 @@ Contains the collaborative work of all BUX paladins.
 
 ### colaborating on github and git
 https://www.youtube.com/watch?v=40i5yoTtojI
+
+## PHP Development Enviroment
+We will be using XAMPP to work with wordpress. Please download XAMPP from https://www.apachefriends.org/index.html
+If you decide to use another PHP DE, you're responsible for debugging for problems, if any, on your end.
