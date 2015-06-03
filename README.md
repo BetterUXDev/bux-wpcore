@@ -9,3 +9,6 @@ Contains the collaborative work of all BUX paladins.
 3. https://www.youtube.com/watch?v=uR-9NGrpU-c
 4. https://www.youtube.com/watch?v=Luo-xKWD6aw
 5. https://www.youtube.com/watch?v=aj8ifYrzGas
+
+### colaborating on github and git
+https://www.youtube.com/watch?v=40i5yoTtojI
