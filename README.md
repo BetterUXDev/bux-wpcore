@@ -5,16 +5,16 @@ Contains the collaborative work of all BUX paladins.
 1. Never Merge anything yourself, i'll check your work before merging it
 2. In Wordpress, never update the wordpress version regardless of how temping it is.
 
-##git videos
-*lets try and stay consistent with out git methods!*
-###git tut part :
+##Git videos
+*lets try and stay consistent with our git methods!*
+###Git tut part :
 1. https://www.youtube.com/watch?v=j1oFazXrzN4
 2. https://www.youtube.com/watch?v=KDt01U859Ik
 3. https://www.youtube.com/watch?v=uR-9NGrpU-c
 4. https://www.youtube.com/watch?v=Luo-xKWD6aw
 5. https://www.youtube.com/watch?v=aj8ifYrzGas
 
-### colaborating on github and git
+### Colaborating on github and git
 https://www.youtube.com/watch?v=40i5yoTtojI
 
 ## PHP Development Enviroment
