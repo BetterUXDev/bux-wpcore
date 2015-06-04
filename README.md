@@ -12,6 +12,7 @@ Contains the collaborative work of all BUX paladins.
 
 ### colaborating on github and git
 https://www.youtube.com/watch?v=40i5yoTtojI
+IMPORTANT : Never Merge anything yourself, i'll check your work before merging it
 
 ## PHP Development Enviroment
 We will be using XAMPP to work with wordpress.
