@@ -20,10 +20,11 @@ If you decide to use another PHP DE, you're responsible for debugging for proble
 1. Download XAMPP 5.6.8 from : https://www.apachefriends.org/download.html
 2. Open Installer (.exe) and click next
 3. Click next again to choose the default components for installation
-4. Install to "C:\users\(your-username)\XAMPP" (create new folder if necessary)
+4. Install to "C:\XAMPP" (should already be set to this folder)
 5. Click Next. close brower window opened by installer
 6. Click Next again to begin installation
-7. Click Finish and Control Panel will open
+7. Uncheck "Run Control Panel" Click Finish
+8. Go to C:\XAMPP, right click on "xampp-control" go to properties, under compatibility check "Run this program as an administrator" at the bottom, click okay.
 
 ### Mac XAMPP Installation guide
 1. Download XAMPP 5.6.8 from : https://www.apachefriends.org/download.html
