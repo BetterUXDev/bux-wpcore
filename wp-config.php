@@ -18,7 +18,7 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'bux_db');
 
-define('WP_ENV', 'development');
+define( 'AUTOMATIC_UPDATER_DISABLED', true );
 
 /** MySQL database username */
 define('DB_USER', 'root');
