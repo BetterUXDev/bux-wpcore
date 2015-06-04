@@ -33,12 +33,12 @@ If you decide to use another PHP DE, you're responsible for debugging for proble
 10. go to "phpmyadmin"
 11. ignore messages and click on databases
 12. Create a new database called "bux_db"
-13. goto "localhost/betterux" (hope everything loads right, you should see the dashboard)
 
 ## Cloning Repo to XAMPP
 1. Create a FORK of the MASTER RESPOSITORY
 2. Clone FORK into htdocs*
 3. Create branch in Git Bash (terminal)
+4. goto "localhost/betterux" (hope everything loads right, you should see the dashboard)
 
 
 *htdocs folder is inside xampp folder (in OS X htdocs has a shortcut to htdocs, but the actual folder is burried inside of the other folder)*
