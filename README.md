@@ -2,7 +2,7 @@
 Contains the collaborative work of all BUX paladins.
 
 ##git videos
-*lets try and stay consitent with out git methods!*
+*lets try and stay consistent with out git methods!*
 ###git tut part :
 1. https://www.youtube.com/watch?v=j1oFazXrzN4
 2. https://www.youtube.com/watch?v=KDt01U859Ik
@@ -14,5 +14,22 @@ Contains the collaborative work of all BUX paladins.
 https://www.youtube.com/watch?v=40i5yoTtojI
 
 ## PHP Development Enviroment
-We will be using XAMPP to work with wordpress. Please download XAMPP from https://www.apachefriends.org/index.html
+We will be using XAMPP to work with wordpress.
 If you decide to use another PHP DE, you're responsible for debugging for problems, if any, on your end.
+### Windows XAMPP Installation guide
+1. Download XAMPP 5.6.8 from : https://www.apachefriends.org/download.html
+2. Open Installer (.exe) and click next
+3. Click next again to choose the default components for installation
+4. Install to "C:\users\(your-username)\XAMPP" (create new folder if necessary)
+5. Click Next. close brower window opened by installer
+6. Click Next again to begin installation
+7. Click Finish and Control Panel will open
+
+### Mac XAMPP Installation guide
+1. Download XAMPP 5.6.8 from : https://www.apachefriends.org/download.html
+2. Open Installer (.dmg) and double click on xampp-osx-5.6.8-installer
+3. Click next again to choose the default components for installation
+4. Click next to Install to "Applications/XAMPP"
+5. Uncheck "Learn more about bitnami for XAMPP", click next
+6. Click Next again to begin installation
+7. Click Finish and Control Panel will open
