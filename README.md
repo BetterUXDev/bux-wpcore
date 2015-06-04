@@ -1,6 +1,10 @@
 # bux-repo
 Contains the collaborative work of all BUX paladins.
 
+## STRICT NONOS
+1. Never Merge anything yourself, i'll check your work before merging it
+2. In Wordpress, never update the wordpress version regardless of how temping it is.
+
 ##git videos
 *lets try and stay consistent with out git methods!*
 ###git tut part :
@@ -12,7 +16,6 @@ Contains the collaborative work of all BUX paladins.
 
 ### colaborating on github and git
 https://www.youtube.com/watch?v=40i5yoTtojI
-IMPORTANT : Never Merge anything yourself, i'll check your work before merging it
 
 ## PHP Development Enviroment
 We will be using XAMPP to work with wordpress.
@@ -26,11 +29,17 @@ If you decide to use another PHP DE, you're responsible for debugging for proble
 6. Click Next again to begin installation
 7. Uncheck "Run Control Panel" Click Finish
 8. WINDOWS ONLY : Go to C:\XAMPP, right click on "xampp-control" go to properties, under compatibility check "Run this program as an administrator" at the bottom, click okay.
+9. go to "localhost\xampp" on your browser
+10. go to "phpmyadmin"
+11. ignore messages and click on databases
+12. Create a new database called "bux_db"
+13. goto "localhost/betterux" (hope everything loads right, you should see the dashboard)
 
 ## Cloning Repo to XAMPP
 1. Create a FORK of the MASTER RESPOSITORY
 2. Clone FORK into htdocs*
 3. Create branch in Git Bash (terminal)
+
 
 *htdocs folder is inside xampp folder (in OS X htdocs has a shortcut to htdocs, but the actual folder is burried inside of the other folder)*
 
