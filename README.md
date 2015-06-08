@@ -17,11 +17,14 @@ Contains the collaborative work of all BUX paladins.
 ### Colaborating on github and git
 https://www.youtube.com/watch?v=40i5yoTtojI
 
+https://docs.google.com/document/d/1dNkByCnpptPke0Fm0XbS32cYOaCXC5tv6NImdKTSpfc/edit?usp=sharing
+
 ## Cloning Repo to XAMPP
 1. Create a FORK of the MASTER RESPOSITORY
 2. Clone FORK into htdocs*
 3. Create branch in Git Bash (terminal)
 4. goto "localhost/betterux" (hope everything loads right, you should see the dashboard)
+
 
 
 *htdocs folder is inside xampp folder (in OS X htdocs has a shortcut to htdocs, but the actual folder is burried inside of the other folder)*
